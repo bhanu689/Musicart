@@ -1,0 +1,91 @@
+.foot{
+    display: flex;
+    background-color: #2E0052;
+    height: 63px;
+    font-weight: 500;
+    color: white;
+    size: 26.41px;
+    justify-content: center;
+    gap: 10px;
+}
+
+.music_logo{
+    height: 45px;
+
+}
+.h2{
+
+    
+   
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 44.13px;
+    line-height: 51.71px;
+    color: #2e0052;
+}
+
+.upper{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    gap: 25px;
+}
+.h3{
+    font-weight: 400;
+    font-family: "Roboto";
+    font-size: 26.41px;
+    line-height: 30.95px;
+    margin-top: 37px;
+}
+.art{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.banner{
+    display: flex;
+    
+    height: 307px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 29px;
+    background: rgb(209,145,201);
+    background: linear-gradient(90deg, rgba(116,134,180,1) 20%, rgba(209,145,201,1) 80%  );
+    margin: 10px 50px 30px 50px;
+}
+.girl_logo{
+    width: 532px;
+    height: 366px;
+    margin-bottom: 60px;
+
+}
+.grab{
+    font-weight: 500;
+    color: #2E0052;
+    font-family: "Roboto";
+    font-size: 68.59px;
+    line-height: 80.37px;
+    margin: 10px 50px 30px 50px;
+}
+
+.search {
+
+    display: flex;
+    align-items: center;
+    margin: 10px 50px 30px 50px;
+    border-radius: 48px;
+    height: 40px;
+gap: 30px;
+    border: 3px solid #C8C8C8;
+}
+.icon{
+    margin-left: 20px;
+}
+.search_input{
+    font-family: "Roboto";
+    font-size: 33.55px;
+    line-height: 39.31px;
+    color: #666666;
+    font-weight: 400;
+    border: none;
+}

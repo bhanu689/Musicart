@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    background-color: #2E0052;
+    color: white;
+    height: 63px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sec{
+    display: flex;
+    gap: 15px;
+}
+.third{
+    display: flex;
+    gap: 15px;
+    margin-right: 20px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 50px;
+}
